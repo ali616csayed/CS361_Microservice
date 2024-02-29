@@ -28,9 +28,17 @@ python client.py
 Once both the server and client are running, you can use the client to interact with the microservice using the following commands:
 
 View Recipes: Lists all recipes currently stored in the system.
+socket.send_string("VIEW") to the microservice will return all the recipes stored.
+
+
 Save Recipe: Adds a new recipe to the system.
+socket.send_string(f"SAVE {recipe}") to the microservice will save the new recipe.
+
 Remove Recipe: Deletes a recipe from the system.
+socket.send_string(f"REMOVE {recipe}") to the microservice will remove the recipe.
+
 Exit: Quits the client application.
+
 Follow the prompts on the client side to select an action and provide necessary inputs such as recipe name.
 
 # Notes
