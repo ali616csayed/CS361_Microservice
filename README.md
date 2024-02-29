@@ -46,7 +46,8 @@ Recipes are stored in a local text file named recipes.txt.
 Each recipe should be on a separate line in the text file.
 
 # UML Diagram
-![UML Diagram](https://github.com/ali616csayed/CS361_Microservice/assets/91701542/c2e7f2ea-dab1-4d57-aa45-445be19a94ba)
+![UML Diagram](https://github.com/ali616csayed/CS361_Microservice/assets/91701542/132e145b-b411-4c50-89a0-62082b0d5d58)
+
 
 # Contributors
 Ali A
