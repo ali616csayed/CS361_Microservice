@@ -15,8 +15,8 @@ Open a terminal window and navigate to the directory containing the microservice
 
 Run the server:
 
-Copy code
-python microservice.py
+Copy code python microservice.py
+
 Open another terminal window and navigate to the same directory.
 
 Run the client:
